@@ -1,1 +1,1 @@
-Toto je README
+Toto je README - keby si nevedel :)
